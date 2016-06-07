@@ -18,3 +18,7 @@ Then push this new branch-head to your origin repository, ignoring the fact that
 ```
 git push origin +master
 ```
+
+***
+
+[Go back](README.md)
