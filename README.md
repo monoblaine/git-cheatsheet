@@ -7,3 +7,4 @@ This is a (yet another) Git cheat sheet document.
 * [Checkout tracked remote branch](checkout-tracked-remote-branch.md)
 * [Revert master branch to upstream](revert-master-branch-to-upstream.md)
 * [Delete remote tag](delete-remote-tag.md)
+* [Delete remote branch](delete-remote-branch.md)
